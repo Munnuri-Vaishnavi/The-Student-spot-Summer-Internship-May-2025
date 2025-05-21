@@ -24,4 +24,6 @@ This is a simple chatbot application built using Python Conditional Statements a
 ## Requirements
 - Python 3.x
 - Streamlit
+  
+- https://github.com/Munnuri-Vaishnavi/The-Student-spot-Summer-Internship-May-2025.git
 
