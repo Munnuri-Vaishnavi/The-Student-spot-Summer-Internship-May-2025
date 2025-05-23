@@ -21,11 +21,11 @@ This is a beginner-level chatbot built using Python if-elif-else statements, wra
 ### Installation:
 ```bash
 pip install streamlit
-
+```
 How to Run:
 ```bash
 streamlit run basic_chatbot.py 
-
+```
 ## 2. Automating Excel Reports using Pandas and OpenPyXL
 
 ### Description:
