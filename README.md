@@ -41,7 +41,10 @@ This project involved cleaning the Titanic dataset (train.csv) and generating an
 *Input:* train.csv  
 *Output:* cleaned_titanic_report_with_charts.xlsx  
 *File:* automatingtheexcelfile.py
-
+## Installation 
+```bash
+pip install BeautifulSoup
+```
 
 ## 3. Web Scraping using BeautifulSoup
 
@@ -70,3 +73,4 @@ Install the required libraries using pip:
 
 ```bash
 pip install pandas openpyxl beautifulsoup4 requests
+```
