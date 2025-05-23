@@ -4,18 +4,27 @@ Hi! I'm **Munnuri Vaishnavi**, and this repository showcases the three core task
 
 I also actively used **AI tools like ChatGPT** to guide my approach, solve errors, and improve the quality of my solutions throughout these projects.
 
+## 1. Basic ChatBot Using Conditional Statements (with Streamlit UI)
 
-## 1. ChatBot using Basic Conditional Statements
+This is a beginner-level chatbot built using Python if-elif-else statements, wrapped with an interactive web UI using *Streamlit*.
 
-### Description:
-In this task, I developed a simple chatbot that interacts with users based on basic inputs like greetings or questions using Python's if-elif-else conditions.
+### Features:
+- Simple decision-based logic
+- Real-time input and response interface
+- Clean and lightweight UI using Streamlit
 
-### What I Learned:
-- How to structure simple user-interactive programs
-- Using conditional statements to build logic-based conversations
-- Practiced clean input handling and response output
+### Learnings:
+- Implementing conditional flows in Python
+- Using Streamlit to create interactive user interfaces
+- Structuring logic for text-based conversation
 
-*File:* basic_chatbot.py
+### Installation:
+```bash
+pip install streamlit
+
+How to Run:
+```bash
+streamlit run basic_chatbot.py 
 
 ## 2. Automating Excel Reports using Pandas and OpenPyXL
 
